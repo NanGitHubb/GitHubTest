@@ -1,1 +1,2 @@
-hi there modified file locally
+hi there modified file locally for conflict resolution
+
